@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**guoshusong/guoshusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guoshusong/guoshusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 ## 西安电子科技大学 2018级 大二 软件工程专业
 
