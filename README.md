@@ -27,7 +27,7 @@
 
 ## 极简主义 2020年2月 - 至今 后端开发
 
-1. 将用户提供的信息根据模板文件自动生成相应的PPT
+1. 将用户提供的信息根据模板文件在服务端生成相应的PPT
 2. 项目后端代码：https://github.com/CyberspaceStudio/minimalist
 3. 该项目后端采用了SpringBoot+Mybstis框架，利用Apache POI以及openOffice来完成对office文件的编辑、预览工作
 4. 负责数据库和接口的设计，以及项目的上线
