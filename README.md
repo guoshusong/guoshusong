@@ -2,7 +2,7 @@
 
 <!--
 **guoshusong/guoshusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guoshusong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 西安电子科技大学 2018级 大二 软件工程专业
 
